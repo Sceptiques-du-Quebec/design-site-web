@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Krita: https://krita.org -->
+
+<svg
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg7651"
+   sodipodi:docname="particule_transsymbole_300x.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:dataloss="true"
+   inkscape:export-filename="../Projets/douteux/particule_transsymbole_300xv2.svg"
+   inkscape:export-xdpi="100.05579"
+   inkscape:export-ydpi="100.05579"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7653"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.30142182"
+     inkscape:cx="457.83015"
+     inkscape:cy="28.199683"
+     inkscape:window-width="1920"
+     inkscape:window-height="982"
+     inkscape:window-x="1920"
+     inkscape:window-y="1080"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7651" />
+  <defs
+     id="defs7630" />
+  <ellipse
+     style="fill:none;stroke:#819c27;stroke-width:36.5289;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     id="path7873"
+     cx="149.70227"
+     cy="144.6347"
+     rx="54.086212"
+     ry="54.086197" />
+  <rect
+     style="fill:none;stroke:#819c27;stroke-width:27.0502;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect9201"
+     width="78.684662"
+     height="0.30147359"
+     x="207.62566"
+     y="-149.98955"
+     ry="0"
+     transform="rotate(90)" />
+  <rect
+     style="fill:none;stroke:#819c27;stroke-width:27.0501;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect9201-6"
+     width="78.684677"
+     height="0.30147374"
+     x="-153.99861"
+     y="-206.57838"
+     ry="0"
+     transform="rotate(133.47959)" />
+  <rect
+     style="fill:none;stroke:#819c27;stroke-width:27.0502;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect9201-1"
+     width="78.684715"
+     height="0.30147374"
+     x="53.041607"
+     y="-10.291541"
+     ry="0"
+     transform="rotate(45.547843)" />
+  <rect
+     style="fill:none;stroke:#819c27;stroke-width:27.0502;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect9201-8"
+     width="78.6847"
+     height="0.30147383"
+     x="-189.65204"
+     y="-255.62802"
+     ry="0"
+     transform="scale(-1)" />
+  <rect
+     style="fill:none;stroke:#819c27;stroke-width:26.783;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect9201-7"
+     width="45.677822"
+     height="0.50908899"
+     x="15.041479"
+     y="-271.48685"
+     ry="0"
+     transform="rotate(90)" />
+  <rect
+     style="fill:none;stroke:#819c27;stroke-width:26.783;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect9201-7-9"
+     width="45.677849"
+     height="0.50908959"
+     x="-271.46445"
+     y="-15.505473"
+     ry="0"
+     transform="scale(-1)" />
+  <rect
+     style="fill:none;stroke:#819c27;stroke-width:26.783;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect9201-7-0"
+     width="45.677822"
+     height="0.50908899"
+     x="14.881053"
+     y="27.753849"
+     ry="0"
+     transform="matrix(0,1,1,0,0,0)" />
+  <rect
+     style="fill:none;stroke:#819c27;stroke-width:26.783;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect9201-7-9-2"
+     width="45.677849"
+     height="0.50908959"
+     x="27.776711"
+     y="-15.345046"
+     ry="0"
+     transform="scale(1,-1)" />
+  <rect
+     style="fill:none;stroke:#819c27;stroke-width:26.7834;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect9201-7-2"
+     width="45.677826"
+     height="0.50908929"
+     x="-30.402483"
+     y="-106.36101"
+     ry="0"
+     transform="rotate(134.84607)" />
+</svg>
